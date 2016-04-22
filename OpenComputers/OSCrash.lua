@@ -1,0 +1,2 @@
+local ecs = require("ECSAPI")
+ecs.universalWindow("auto", "auto", 30, 0xeeeeee, true, {"EmptyLine"}, {"CenterText", 0x262626, "Произошёл краш ОС"}, {"EmptyLine"}, {"Button", {0x880088, 0xffffff, "ОК"}})

@@ -1,0 +1,1 @@
+{{path="/mnt/264/MineOS/Applications/phOSFirst.app/phOSFirst.lua",size=1,enabled=true}}
